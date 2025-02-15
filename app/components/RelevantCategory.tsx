@@ -1,7 +1,9 @@
+"use client"
 import React from 'react'
-import { TypeData } from '../(root)/details/[id]/page'
+import { TypeData } from '../(root)/page'
 import Image from 'next/image'
 import Link from 'next/link'
+import { usePathname } from 'next/navigation'
 
 
 interface RelevantCategoryProps {
@@ -9,6 +11,8 @@ interface RelevantCategoryProps {
 }
 
 const RelevantCategory = ({ relevantCategory }: RelevantCategoryProps) => {
+    const pathName = usePathname();
+    const isDetailsPath = pathName.startsWith('/details/')
     return (
 
         <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4'>
@@ -16,11 +20,13 @@ const RelevantCategory = ({ relevantCategory }: RelevantCategoryProps) => {
                 <div className='rounded-xl shadow-lg border-3 border-white-500/100 flex flex-col'>
                     <div className='flex flex-col'>
                         <div className="rounded-xl border-white " >
-                            <Link href={`details/${id}`}>
-                                <Image src={srcUrl} alt='lorem' width={300} height={300} className='w-full min-h-[300px] aspect-[4/3] object-cover sm:aspect-[4/2]' />
-                                <div className='hover:bg-transparent transition duration-300  bg-gray-900 opacity-25'>
-                                </div>
-                            </Link>
+                            {isDetailsPath &&
+                                <Link href={`/details/${id}`}>
+                                    <Image src={srcUrl} alt='lorem' width={300} height={300} className='w-full min-h-[300px] aspect-[4/3] object-cover sm:aspect-[4/2]' />
+                                    <div className='hover:bg-transparent transition duration-300  bg-gray-900 opacity-25'>
+                                    </div>
+                                </Link>
+                            }
 
                             <div className="flex flex-col items-center">
                                 <h4 className='text-xl center font-bold mt-3 p-2'>{title}</h4>

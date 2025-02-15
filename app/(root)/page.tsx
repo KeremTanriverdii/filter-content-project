@@ -3,7 +3,7 @@ import Search from "../components/Search";
 import inform from '../Data/dummy.json'
 import { Skeleton } from "../components/ui/skeleton";
 
-interface TypeData {
+export interface TypeData {
   id: string;
   title: string;
   description: string;

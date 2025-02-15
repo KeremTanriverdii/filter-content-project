@@ -4,14 +4,8 @@ import Image from "next/image";
 import inform from '../../../Data/dummy.json'
 import Search from "@/app/components/Search";
 import RelevantCategory from "@/app/components/RelevantCategory";
+import { TypeData } from "../../page";
 
-export interface TypeData {
-    id: string;
-    title: string;
-    description: string;
-    category: string;
-    srcUrl: string;
-}
 
 async function getData(): Promise<TypeData[]> {
     return inform
@@ -41,7 +35,6 @@ export async function generateMetadata(
     }
 }
 
-
 export default async function Page({
     params,
 }: {
@@ -50,11 +43,8 @@ export default async function Page({
     const data = await getData();
     const item = data.find((item) => item.id === params.id)
 
-
     const filterCategory = data.filter((fil => fil.category === item?.category && fil.id !== item.id))
     const relevantCategory = filterCategory.splice(0, 5);
-
-
     return (
         <div className="flex flex-col ms-auto p-5">
             <Search data={data} />
