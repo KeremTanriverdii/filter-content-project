@@ -1,13 +1,27 @@
-import Image from "next/image";
-import { useState } from "react";
+import { Suspense } from "react";
 import Search from "../components/Search";
+import inform from '../Data/dummy.json'
+import { Skeleton } from "../components/ui/skeleton";
 
+interface TypeData {
+  id: string;
+  title: string;
+  description: string;
+  category: string;
+  srcUrl: string;
+}
 
-export default function Home() {
+async function getData(): Promise<TypeData[]> {
+  return inform;
+}
 
+export default async function Home() {
+  const data = await getData();
   return (
-    <div >
-      <Search />
+    <div className="pr-5">
+      <Suspense fallback={<Skeleton />}>
+        <Search data={data} />
+      </Suspense>
     </div>
   );
 }

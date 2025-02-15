@@ -3,558 +3,651 @@
     "id": "1",
     "title": "Rönesans Sanatı",
     "description": "Rönesans Sanatı hakkında detaylı bilgi ve analiz.",
-    "category": "sanat"
+    "category": "sanat",
+    "srcUrl": "https://birsanatbirkitap.com/wp-content/uploads/2018/10/ronesans_sanatinin_ozellikleri-1-800x416.jpg"
   },
   {
     "id": "2",
     "title": "Newton'un Hareket Yasaları",
     "description": "Newton'un Hareket Yasaları hakkında detaylı bilgi ve analiz.",
-    "category": "bilim"
+    "category": "bilim",
+    "srcUrl": "https://bilimgenc.tubitak.gov.tr/sites/default/files/styles/bp-770px-custom_user_desktop_1x/public/Newton%20Hareket%20Yasalar%C4%B1.jpg?itok=CRw1pPFG"
   },
   {
     "id": "3",
     "title": "Yapay Zekanın Geleceği",
     "description": "Yapay Zekanın Geleceği hakkında detaylı bilgi ve analiz.",
-    "category": "teknoloji"
+    "category": "teknoloji",
+    "srcUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvkUFmp5jSF-DhrD5102bzHU7RbidetfqYfA&s"
   },
   {
     "id": "4",
     "title": "Nietzsche ve Üstinsan",
     "description": "Nietzsche ve Üstinsan hakkında detaylı bilgi ve analiz.",
-    "category": "felsefe"
+    "category": "felsefe",
+    "srcUrl": "https://dinginyasam.com/wp-content/uploads/2023/10/Nietzsche-sozleri-dinginyasam.com_-660x330.jpg"
   },
   {
     "id": "5",
     "title": "Modern Heykel Sanatı",
     "description": "Modern Heykel Sanatı hakkında detaylı bilgi ve analiz.",
-    "category": "sanat"
+    "category": "sanat",
+    "srcUrl": "https://dpcdn.tebilisim.com/crop/1280x720/uploads/2024/12/modern-heykel-sanati-turkiyede-one-cikan-isimler-ve-eserler.jpg"
   },
   {
     "id": "6",
     "title": "Kuantum Fiziği Temelleri",
     "description": "Kuantum Fiziği Temelleri hakkında detaylı bilgi ve analiz.",
-    "category": "bilim"
+    "category": "bilim",
+    "srcUrl": "https://yztd.org.tr/uploads/2023/03/kuantum.jpg"
   },
   {
     "id": "7",
     "title": "Blockchain Teknolojisi",
     "description": "Blockchain Teknolojisi hakkında detaylı bilgi ve analiz.",
-    "category": "teknoloji"
+    "category": "teknoloji",
+    "srcUrl": "https://evc.sa/wp-content/uploads/2023/05/Blockchain-1-1024x614.webp"
   },
   {
     "id": "8",
     "title": "Platon'un İdealar Kuramı",
     "description": "Platon'un İdealar Kuramı hakkında detaylı bilgi ve analiz.",
-    "category": "felsefe"
+    "category": "felsefe",
+    "srcUrl": "https://www.felsefe.gen.tr/wp-content/uploads/2019/11/idealar-kurami.jpg"
   },
   {
     "id": "9",
     "title": "Sanat ve Toplum",
     "description": "Sanat ve Toplum hakkında detaylı bilgi ve analiz.",
-    "category": "sanat"
+    "category": "sanat",
+    "srcUrl": "https://www.felsefe.gen.tr/wp-content/uploads/2020/04/Rembrant.jpg.webp"
   },
   {
     "id": "10",
     "title": "Genetik Mühendisliği",
     "description": "Genetik Mühendisliği hakkında detaylı bilgi ve analiz.",
-    "category": "bilim"
+    "category": "bilim",
+    "srcUrl": "https://www.bestepebloggers.com/wp-content/uploads/2024/04/genetik.jpg"
   },
   {
     "id": "11",
     "title": "Robotik Sistemler",
     "description": "Robotik Sistemler hakkında detaylı bilgi ve analiz.",
-    "category": "teknoloji"
+    "category": "teknoloji",
+    "srcUrl": "https://www.teknikerler.com/wp-content/uploads/2021/03/robotik_kodlama-1.jpg"
   },
   {
     "id": "12",
     "title": "Stoacı Felsefe",
     "description": "Stoacı Felsefe hakkında detaylı bilgi ve analiz.",
-    "category": "felsefe"
+    "category": "felsefe",
+    "srcUrl": "https://www.felsefe.gen.tr/wp-content/uploads/2019/11/Stoacilik.jpg"
   },
   {
     "id": "13",
     "title": "Klasik Resim Teknikleri",
     "description": "Klasik Resim Teknikleri hakkında detaylı bilgi ve analiz.",
-    "category": "sanat"
+    "category": "sanat",
+    "srcUrl": "https://resimakademi.com.tr/uploads/2023/04/cizim-teknikleri.jpg"
   },
   {
     "id": "14",
     "title": "Evrim Teorisi",
     "description": "Evrim Teorisi hakkında detaylı bilgi ve analiz.",
-    "category": "bilim"
+    "category": "bilim",
+    "srcUrl": "https://www.akasyam.com/files/uploads/news/default/20241231-kuranin-yaratilis-anlayisi-ve-evrim-teorisi-celiski-var-mi-308629-73238a6841084ab74a99.jpg"
   },
   {
     "id": "15",
     "title": "Yazılım Mühendisliği",
     "description": "Yazılım Mühendisliği hakkında detaylı bilgi ve analiz.",
-    "category": "teknoloji"
+    "category": "teknoloji",
+    "srcUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgOhl6Nk3TaSuWkreQArMgxNhpGjWyuo3VeQ&s"
   },
   {
     "id": "16",
     "title": "Kant'ın Ahlak Felsefesi",
     "description": "Kant'ın Ahlak Felsefesi hakkında detaylı bilgi ve analiz.",
-    "category": "felsefe"
+    "category": "felsefe",
+    "srcUrl": "https://mesuteliff.weebly.com/uploads/5/2/2/5/52258637/6516960.jpg?548"
   },
   {
     "id": "17",
     "title": "Postmodern Sanat",
     "description": "Postmodern Sanat hakkında detaylı bilgi ve analiz.",
-    "category": "sanat"
+    "category": "sanat",
+    "srcUrl": "https://www.manifestodergi.com/wp-content/uploads/2024/04/word-image-4780-1-1.png"
   },
   {
     "id": "18",
     "title": "Astronomi Temelleri",
     "description": "Astronomi Temelleri hakkında detaylı bilgi ve analiz.",
-    "category": "bilim"
+    "category": "bilim",
+    "srcUrl": "https://i.ytimg.com/vi/ZxMC0Ea73HI/hqdefault.jpg?v=605f7c5b"
   },
   {
     "id": "19",
     "title": "Siber Güvenlik",
     "description": "Siber Güvenlik hakkında detaylı bilgi ve analiz.",
-    "category": "teknoloji"
+    "category": "teknoloji",
+    "srcUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvjRoShnolQ9YKG7TBsObd1U0UDlCOG1zSkg&s"
   },
   {
     "id": "20",
     "title": "Hegel ve Diyalektik",
     "description": "Hegel ve Diyalektik hakkında detaylı bilgi ve analiz.",
-    "category": "felsefe"
+    "category": "felsefe",
+    "srcUrl": "https://i.ytimg.com/vi/YOySVN1HwQc/sddefault.jpg"
   },
   {
     "id": "21",
     "title": "Soyut Sanatın Anlamı",
     "description": "Soyut Sanatın Anlamı hakkında detaylı bilgi ve analiz.",
-    "category": "sanat"
+    "category": "sanat",
+    "srcUrl": "https://i.ytimg.com/vi/KQFmGaUyLSI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBPqsrn_uDuBQkNWmEy1psQfuN39w"
   },
   {
     "id": "22",
     "title": "Biyoteknolojide Yenilikler",
     "description": "Biyoteknolojide Yenilikler hakkında detaylı bilgi ve analiz.",
-    "category": "bilim"
+    "category": "bilim",
+    "srcUrl": "https://blog.eurekosigorta.com.tr/wp-content/uploads/2022/07/biyoteknoloji2-1024x581.jpg"
   },
   {
     "id": "23",
     "title": "5G Teknolojisi ve Gelecek",
     "description": "5G Teknolojisi ve Gelecek hakkında detaylı bilgi ve analiz.",
-    "category": "teknoloji"
+    "category": "teknoloji",
+    "srcUrl": "https://i.ytimg.com/vi/q6f6nsPTvZ8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBqemVZd4P-oQvOHrS8b-HYE5s01A"
   },
   {
     "id": "24",
     "title": "Felsefi Paradokslar",
     "description": "Felsefi Paradokslar hakkında detaylı bilgi ve analiz.",
-    "category": "felsefe"
+    "category": "felsefe",
+    "srcUrl": "https://i.ytimg.com/vi/njJBi3yAwlI/maxresdefault.jpg"
   },
   {
     "id": "25",
     "title": "Barok Dönemi Sanatı",
     "description": "Barok Dönemi Sanatı hakkında detaylı bilgi ve analiz.",
-    "category": "sanat"
+    "category": "sanat",
+    "srcUrl": "https://okuryazarim.com/wp-content/uploads/2017/07/barok-m%C3%BCzik.jpg"
   },
   {
     "id": "26",
     "title": "Fizikte Görelilik Kuramı",
     "description": "Fizikte Görelilik Kuramı hakkında detaylı bilgi ve analiz.",
-    "category": "bilim"
+    "category": "bilim",
+    "srcUrl": "https://storage.evrimagaci.org/old/content_media/8c461e81a240d638ba8898835f11fb78.jpg"
   },
   {
     "id": "27",
     "title": "Akıllı Şehir Teknolojileri",
     "description": "Akıllı Şehir Teknolojileri hakkında detaylı bilgi ve analiz.",
-    "category": "teknoloji"
+    "category": "teknoloji",
+    "srcUrl": "https://i.ytimg.com/vi/bxnTKa4fcSQ/sddefault.jpg"
   },
   {
     "id": "28",
     "title": "Dil Felsefesi",
     "description": "Dil Felsefesi hakkında detaylı bilgi ve analiz.",
-    "category": "felsefe"
+    "category": "felsefe",
+    "srcUrl": "https://www.felsefe.gen.tr/wp-content/uploads/2019/11/Felsefe-dil-iliskisi-1.jpg"
   },
   {
     "id": "29",
     "title": "Empresyonist Akım",
     "description": "Empresyonist Akım hakkında detaylı bilgi ve analiz.",
-    "category": "sanat"
+    "category": "sanat",
+    "srcUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXpVO8Kgs3vNwroLdxiXAZBUpLUfphoq_yRQ&s"
   },
   {
     "id": "30",
     "title": "Kozmoloji ve Evrenin Başlangıcı",
     "description": "Kozmoloji ve Evrenin Başlangıcı hakkında detaylı bilgi ve analiz.",
-    "category": "bilim"
+    "category": "bilim",
+    "srcUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTg5N48Qfzh7Cutkqrxbb51_vk8jjGNDHEZw&s"
   },
   {
     "id": "31",
     "title": "Otonom Araç Sistemleri",
     "description": "Otonom Araç Sistemleri hakkında detaylı bilgi ve analiz.",
-    "category": "teknoloji"
+    "category": "teknoloji",
+    "srcUrl": "https://www.otopratik.com.tr/uploads/content_images/otonom-nedir-3.webp"
   },
   {
     "id": "32",
     "title": "Varoluşçu Felsefe",
     "description": "Varoluşçu Felsefe hakkında detaylı bilgi ve analiz.",
-    "category": "felsefe"
+    "category": "felsefe",
+    "srcUrl": "https://www.felsefe.gen.tr/wp-content/uploads/2019/11/varolusculuk.jpg"
   },
   {
     "id": "33",
     "title": "Kübizm ve Picasso",
     "description": "Kübizm ve Picasso hakkında detaylı bilgi ve analiz.",
-    "category": "sanat"
+    "category": "sanat",
+    "srcUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_l_nX6qQ7lkSOHAM7pTbDSyUsdeIvQ8FZsQ&s"
   },
   {
     "id": "34",
     "title": "Kimya ve Hayat",
     "description": "Kimya ve Hayat hakkında detaylı bilgi ve analiz.",
-    "category": "bilim"
+    "category": "bilim",
+    "srcUrl": "https://storage.evrimagaci.org/old/content_media/2639ae22922475c429b9e0da4228249d.jpg"
   },
   {
     "id": "35",
     "title": "Yapay Zeka Etiği",
     "description": "Yapay Zeka Etiği hakkında detaylı bilgi ve analiz.",
-    "category": "teknoloji"
+    "category": "teknoloji",
+    "srcUrl": "https://cdn.d-teknoloji.com.tr/uploads/000003531_yapay-zeka-ai-nedir-2400-x-750-px.png"
   },
   {
     "id": "36",
     "title": "Ahlak ve Erdem Tartışmaları",
     "description": "Ahlak ve Erdem Tartışmaları hakkında detaylı bilgi ve analiz.",
-    "category": "felsefe"
+    "category": "felsefe",
+    "srcUrl": "https://www.akademikakil.com/wp-content/uploads/2023/03/ayin-konusu-temel-sorun-ahlak.jpg"
   },
   {
     "id": "37",
     "title": "Minyatür Sanatı",
     "description": "Minyatür Sanatı hakkında detaylı bilgi ve analiz.",
-    "category": "sanat"
+    "category": "sanat",
+    "srcUrl": "https://ortadogugazetesicom.teimg.com/crop/1280x720/ortadogugazetesi-com/uploads/2024/08/minyatur.png"
   },
   {
     "id": "38",
     "title": "Nükleer Fizik Temelleri",
     "description": "Nükleer Fizik Temelleri hakkında detaylı bilgi ve analiz.",
-    "category": "bilim"
+    "category": "bilim",
+    "srcUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb4el4sKOCcE4fs65kMDTPRkpf_fPBVk3IVA&s"
   },
   {
     "id": "39",
     "title": "Sanal Gerçeklik",
     "description": "Sanal Gerçeklik hakkında detaylı bilgi ve analiz.",
-    "category": "teknoloji"
+    "category": "teknoloji",
+    "srcUrl": "https://cdn.prod.website-files.com/604e5c4008cd1b39ec1a9cee/65e97561c2c34edce9df665d_Egitimde_Sanal_Gerceklik_Katilimini_Artirma_Yollari-min.jpg"
   },
   {
     "id": "40",
     "title": "Platon ve Devlet",
     "description": "Platon ve Devlet hakkında detaylı bilgi ve analiz.",
-    "category": "felsefe"
+    "category": "felsefe",
+    "srcUrl": "https://www.felsefe.gen.tr/wp-content/uploads/2019/11/platon-devlet.png"
   },
   {
     "id": "41",
     "title": "Gotik Mimari",
     "description": "Gotik Mimari hakkında detaylı bilgi ve analiz.",
-    "category": "sanat"
+    "category": "sanat",
+    "srcUrl": "https://www.kentharita.com/wp-content/uploads/2019/10/gotik-mimari-nedir.jpg"
   },
   {
     "id": "42",
     "title": "Termodinamik İlkeleri",
     "description": "Termodinamik İlkeleri hakkında detaylı bilgi ve analiz.",
-    "category": "bilim"
+    "category": "bilim",
+    "srcUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlnPFpOa7T_UjiozsSAUsX952QWg-zJRjjlg&s"
   },
   {
     "id": "43",
     "title": "Bulut Bilişim Teknolojisi",
     "description": "Bulut Bilişim Teknolojisi hakkında detaylı bilgi ve analiz.",
-    "category": "teknoloji"
+    "category": "teknoloji",
+    "srcUrl": "https://i0.wp.com/www.bilisimonline.net/wp-content/uploads/2017/11/bulutbilisimmodel.jpg?resize=600%2C497"
   },
   {
     "id": "44",
     "title": "Epistemoloji ve Bilgi",
     "description": "Epistemoloji ve Bilgi hakkında detaylı bilgi ve analiz.",
-    "category": "felsefe"
+    "category": "felsefe",
+    "srcUrl": "https://edebialem.com/wp-content/uploads/2022/05/bilgi-felsefesi-1.jpg"
   },
   {
     "id": "45",
     "title": "Renk Teorisi",
     "description": "Renk Teorisi hakkında detaylı bilgi ve analiz.",
-    "category": "sanat"
+    "category": "sanat",
+    "srcUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTasYVNS5sWFYbOWLH1dWVXVD1J49MfhbqLPQ&s"
   },
   {
     "id": "46",
     "title": "Biyolojik Evrim",
     "description": "Biyolojik Evrim hakkında detaylı bilgi ve analiz.",
-    "category": "bilim"
+    "category": "bilim",
+    "srcUrl": "https://im.haberturk.com/nedir/biyolojik_evrim-nedir.jpg"
   },
   {
     "id": "47",
     "title": "İnternetin Geleceği",
     "description": "İnternetin Geleceği hakkında detaylı bilgi ve analiz.",
-    "category": "teknoloji"
+    "category": "teknoloji",
+    "srcUrl": "https://dailycoin.com/wp-content/uploads/2023/02/IMG_6085.jpg"
   },
   {
     "id": "48",
     "title": "Postmodern Felsefe",
     "description": "Postmodern Felsefe hakkında detaylı bilgi ve analiz.",
-    "category": "felsefe"
+    "category": "felsefe",
+    "srcUrl": "https://sonhaber.ch/wp-content/uploads/2020/02/Postmodernizm-Nedir-Ne-Degildir-kapak-gorseli-e1580602826696.jpg"
   },
   {
     "id": "49",
     "title": "Ressamlık ve Duygu",
     "description": "Ressamlık ve Duygu hakkında detaylı bilgi ve analiz.",
-    "category": "sanat"
+    "category": "sanat",
+    "srcUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_fpICKBCUddKvh39wtXHA1uN71y-uW4FCsw&s"
   },
   {
     "id": "50",
     "title": "Kuantum Mekaniği",
     "description": "Kuantum Mekaniği hakkında detaylı bilgi ve analiz.",
-    "category": "bilim"
+    "category": "bilim",
+    "srcUrl": "https://i.ytimg.com/vi/mO0mis1oRsA/maxresdefault.jpg"
   },
   {
     "id": "51",
     "title": "Yazılım Güvenliği",
     "description": "Yazılım Güvenliği hakkında detaylı bilgi ve analiz.",
-    "category": "teknoloji"
+    "category": "teknoloji",
+    "srcUrl": "https://zsrpatlayici.com/files/pages/b5e49d94-8cde-4d02-b618-011bd1f79080.jpg"
   },
   {
     "id": "52",
     "title": "Metafizik Sorular",
     "description": "Metafizik Sorular hakkında detaylı bilgi ve analiz.",
-    "category": "felsefe"
+    "category": "felsefe",
+    "srcUrl": "https://www.aydemperakende.com.tr/storage/blog//67239adfb91b1-AydemBlog_Metafizik-Go%CC%88rsel-1.webp"
   },
   {
     "id": "53",
     "title": "Fotoğrafçılık Teknikleri",
     "description": "Fotoğrafçılık Teknikleri hakkında detaylı bilgi ve analiz.",
-    "category": "sanat"
+    "category": "sanat",
+    "srcUrl": "https://bilgeis.net/moodle/pluginfile.php/1467/course/overviewfiles/54_Fotografcilik-Teknikleri-2.jpg"
   },
   {
     "id": "54",
     "title": "Bilimsel Devrimler",
     "description": "Bilimsel Devrimler hakkında detaylı bilgi ve analiz.",
-    "category": "bilim"
+    "category": "bilim",
+    "srcUrl": "https://storage.evrimagaci.org/content/df20d377-b372-4811-9b82-f051f6ca0f70.jpeg"
   },
   {
     "id": "55",
     "title": "Veri Analitiği",
     "description": "Veri Analitiği hakkında detaylı bilgi ve analiz.",
-    "category": "teknoloji"
+    "category": "teknoloji",
+    "srcUrl": "https://www.aktekbilisim.com/wp-content/uploads/2024/03/IMG_6660-1024x1024.png"
   },
   {
     "id": "56",
     "title": "Felsefi Aşkınlık",
     "description": "Felsefi Aşkınlık hakkında detaylı bilgi ve analiz.",
-    "category": "felsefe"
+    "category": "felsefe",
+    "srcUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzZ1KrTU_bLUFSuCM1n_MRDeugXClh7PcrLA&s"
   },
   {
     "id": "57",
     "title": "Heykelde Modernizm",
     "description": "Heykelde Modernizm hakkında detaylı bilgi ve analiz.",
-    "category": "sanat"
+    "category": "sanat",
+    "srcUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpj3iR-686yDXtWHCohsVGYdCwzrbqZTcwHQ&s"
   },
   {
     "id": "58",
     "title": "Mikrobiyoloji",
     "description": "Mikrobiyoloji hakkında detaylı bilgi ve analiz.",
-    "category": "bilim"
+    "category": "bilim",
+    "srcUrl": "https://www.analyzer.com.tr/wp-content/uploads/2019/10/mikrobiyoloji-1280x720.jpg"
   },
   {
     "id": "59",
     "title": "Yapay Sinir Ağları",
     "description": "Yapay Sinir Ağları hakkında detaylı bilgi ve analiz.",
-    "category": "teknoloji"
+    "category": "teknoloji",
+    "srcUrl": "https://www.karabayyazilim.com/uploads/blogs/yapay-sinir-aglari-neural-network-nedir-2020-03-22-005754/yapay-sinir-aglari-neural-network-nedir-2020-03-22-005754-0.jpg"
   },
   {
     "id": "60",
     "title": "Anlam Felsefesi",
     "description": "Anlam Felsefesi hakkında detaylı bilgi ve analiz.",
-    "category": "felsefe"
+    "category": "felsefe",
+    "srcUrl": "https://i.ytimg.com/vi/WVzoLNxM_mg/sddefault.jpg"
   },
   {
     "id": "61",
     "title": "Soyut Ekspresyonizm",
     "description": "Soyut Ekspresyonizm hakkında detaylı bilgi ve analiz.",
-    "category": "sanat"
+    "category": "sanat",
+    "srcUrl": "https://www.istanbulsanatevi.com/wp-content/uploads/2018/05/soyut-ekspresyonizm.jpg"
   },
   {
     "id": "62",
     "title": "Çevre Bilimi",
     "description": "Çevre Bilimi hakkında detaylı bilgi ve analiz.",
-    "category": "bilim"
+    "category": "bilim",
+    "srcUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLqmBvSHRJJ48HePGu7uRDhieUBiuMWHzVmA&s"
   },
   {
     "id": "63",
     "title": "Giyilebilir Teknolojiler",
     "description": "Giyilebilir Teknolojiler hakkında detaylı bilgi ve analiz.",
-    "category": "teknoloji"
+    "category": "teknoloji",
+    "srcUrl": "https://epnext.com/wp-content/uploads/2021/03/Giyilebilir_Teknolojiler.jpg"
   },
   {
     "id": "64",
     "title": "Zihin ve Madde",
     "description": "Zihin ve Madde hakkında detaylı bilgi ve analiz.",
-    "category": "felsefe"
+    "category": "felsefe",
+    "srcUrl": "https://i.ytimg.com/vi/aKPW79ykT9g/maxresdefault.jpg"
   },
   {
     "id": "65",
     "title": "Dadaizm ve Sanat",
     "description": "Dadaizm ve Sanat hakkında detaylı bilgi ve analiz.",
-    "category": "sanat"
+    "category": "sanat",
+    "srcUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqMCzBSv0KEBlrwCzDU33s1kQ6rg41oeFgDw&s"
   },
   {
     "id": "66",
     "title": "Astrofizik",
     "description": "Astrofizik hakkında detaylı bilgi ve analiz.",
-    "category": "bilim"
+    "category": "bilim",
+    "srcUrl": "https://bilgihanem.com/wp-content/uploads/2015/01/astrofizik-nedir.jpg"
   },
   {
     "id": "67",
     "title": "Akıllı Ev Sistemleri",
     "description": "Akıllı Ev Sistemleri hakkında detaylı bilgi ve analiz.",
-    "category": "teknoloji"
+    "category": "teknoloji",
+    "srcUrl": "https://teknoerbilisim.com/tema/genel/uploads/hizmetler/Akilli-Ev-Sistemleri.jpg"
   },
   {
     "id": "68",
     "title": "Felsefi Materyalizm",
     "description": "Felsefi Materyalizm hakkında detaylı bilgi ve analiz.",
-    "category": "felsefe"
+    "category": "felsefe",
+    "srcUrl": "https://www.felsefe.gen.tr/wp-content/uploads/2019/11/Materyalizm-Maddecilik.jpg"
   },
   {
     "id": "69",
     "title": "Klasik Heykel Sanatı",
     "description": "Klasik Heykel Sanatı hakkında detaylı bilgi ve analiz.",
-    "category": "sanat"
+    "category": "sanat",
+    "srcUrl": "https://i0.wp.com/dergibi.com/wp-content/uploads/2023/04/ossip-1080.jpg?fit=1080%2C640&ssl=1"
   },
   {
     "id": "70",
     "title": "Bilgi Teorisi",
     "description": "Bilgi Teorisi hakkında detaylı bilgi ve analiz.",
-    "category": "bilim"
+    "category": "bilim",
+    "srcUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS572pyjddKuzriiZm9IYNjy_cFt7jDkZECIw&s"
   },
   {
     "id": "71",
     "title": "Uzay Teknolojileri",
     "description": "Uzay Teknolojileri hakkında detaylı bilgi ve analiz.",
-    "category": "teknoloji"
+    "category": "teknoloji",
+    "srcUrl": "https://seyler.ekstat.com/img/max/800/E/EOuDG8e0KOy5IwKi-635906110414859715.jpg"
   },
   {
     "id": "72",
     "title": "Tarihsel Materyalizm",
     "description": "Tarihsel Materyalizm hakkında detaylı bilgi ve analiz.",
-    "category": "felsefe"
+    "category": "felsefe",
+    "srcUrl": "https://www.akasyam.com/files/uploads/news/default/diyalektik-dusunce-v-a5c541a90ae21c7250a4.jpg"
   },
   {
     "id": "73",
     "title": "Modern Sanatın Yükselişi",
     "description": "Modern Sanatın Yükselişi hakkında detaylı bilgi ve analiz.",
-    "category": "sanat"
+    "category": "sanat",
+    "srcUrl": "https://kulturlimited.com/wp-content/uploads/2017/12/unnamed-21.jpg"
   },
   {
     "id": "74",
     "title": "Nanoteknoloji",
     "description": "Nanoteknoloji hakkında detaylı bilgi ve analiz.",
-    "category": "bilim"
+    "category": "bilim",
+    "srcUrl": "https://nanoteknoloji.org/wp-content/uploads/2019/03/nanotechnology.jpg"
   },
   {
     "id": "75",
     "title": "Düşüncenin Kökeni",
     "description": "Düşüncenin Kökeni hakkında detaylı bilgi ve analiz.",
-    "category": "teknoloji"
+    "category": "teknoloji",
+    "srcUrl": "https://bilimvegelecek.com.tr/wp-content/uploads/2019/10/Speech-bubble.jpg"
   },
   {
     "id": "76",
     "title": "Minimalist Sanat",
     "description": "Minimalist Sanat hakkında detaylı bilgi ve analiz.",
-    "category": "felsefe"
+    "category": "felsefe",
+    "srcUrl": "https://peyzax.com/wp-content/uploads/2020/09/Frank-stella-1.jpg"
   },
   {
     "id": "77",
     "title": "Astrobiyoloji",
     "description": "Astrobiyoloji hakkında detaylı bilgi ve analiz.",
-    "category": "sanat"
+    "category": "sanat",
+    "srcUrl": "https://image.hurimg.com/i/hurriyet/75/0x0/5f9b59c07af5070b2cead273.jpg"
   },
   {
     "id": "78",
     "title": "Dijital Güvenlik",
     "description": "Dijital Güvenlik hakkında detaylı bilgi ve analiz.",
-    "category": "bilim"
+    "category": "bilim",
+    "srcUrl": "https://gokkusagi.k12.tr/wp-content/uploads/2023/04/Dijital-Guvenlik.jpeg.avif"
   },
   {
     "id": "79",
     "title": "Ahlak Felsefesi",
     "description": "Ahlak Felsefesi hakkında detaylı bilgi ve analiz.",
-    "category": "teknoloji"
+    "category": "teknoloji",
+    "srcUrl": "https://mesuteliff.weebly.com/uploads/5/2/2/5/52258637/6516960.jpg?548"
   },
   {
     "id": "80",
     "title": "İzlenimcilik ve Doğa",
     "description": "İzlenimcilik ve Doğa hakkında detaylı bilgi ve analiz.",
-    "category": "felsefe"
+    "category": "felsefe",
+    "srcUrl": "https://sanatormani.com/wp-content/uploads/2021/01/Claude_Monet_1875_Train_in_the_SnowMarmottan_Monet.jpg"
   },
   {
     "id": "81",
     "title": "Bilim ve Toplum",
     "description": "Bilim ve Toplum hakkında detaylı bilgi ve analiz.",
-    "category": "sanat"
+    "category": "sanat",
+    "srcUrl": "https://iasbh.tmgrup.com.tr/925f10/650/344/0/35/766/438?u=https://isbh.tmgrup.com.tr/sbh/2021/06/14/4-sinif-bilim-teknoloji-ve-toplum-konu-anlatimi-bilim-teknoloji-ve-toplum-yaklasimi-acisindan-sosyal-bilgiler-1623655799720.jpg"
   },
   {
     "id": "82",
     "title": "Gelişmiş Yapay Zeka Sistemleri",
     "description": "Gelişmiş Yapay Zeka Sistemleri hakkında detaylı bilgi ve analiz.",
-    "category": "bilim"
+    "category": "bilim",
+    "srcUrl": "https://www.innova.com.tr/medias/yapay-zeka-ve-makine-ogrenimi-teknolojisi-gelismeleri.jpg"
   },
   {
     "id": "83",
     "title": "Antik Felsefenin Temelleri",
     "description": "Antik Felsefenin Temelleri hakkında detaylı bilgi ve analiz.",
-    "category": "teknoloji"
+    "category": "teknoloji",
+    "srcUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWhePa-dHeKIQXZeadxno8VyjLfrivDxGrFQ&s"
   },
   {
     "id": "84",
     "title": "Rönesans Heykelleri",
     "description": "Rönesans Heykelleri hakkında detaylı bilgi ve analiz.",
-    "category": "felsefe"
+    "category": "felsefe",
+    "srcUrl": "https://i.ytimg.com/vi/HUvHshCN2Oc/maxresdefault.jpg"
   },
   {
     "id": "85",
     "title": "Hücre Biyolojisi",
     "description": "Hücre Biyolojisi hakkında detaylı bilgi ve analiz.",
-    "category": "sanat"
+    "category": "sanat",
+    "srcUrl": "https://0701.static.prezi.com/preview/v2/g3jhut64ynsvfhp3osalellf2d6jc3sachvcdoaizecfr3dnitcq_3_0.png"
   },
   {
     "id": "86",
     "title": "Makine Öğrenimi",
     "description": "Makine Öğrenimi hakkında detaylı bilgi ve analiz.",
-    "category": "bilim"
+    "category": "bilim",
+    "srcUrl": "https://miro.medium.com/v2/resize:fit:1200/1*AOh7p7f0MYj-fkHSrrNdGg.png"
   },
   {
     "id": "87",
     "title": "Kıta Felsefesi",
     "description": "Kıta Felsefesi hakkında detaylı bilgi ve analiz.",
-    "category": "teknoloji"
+    "category": "teknoloji",
+    "srcUrl": "https://kualiafelsefedergisi.com/wp-content/uploads/2020/04/Kita-Felsefesine-Karsi-Analitik-Felsefe.jpg"
   },
   {
     "id": "88",
     "title": "Barok Dönemi",
     "description": "Barok Dönemi hakkında detaylı bilgi ve analiz.",
-    "category": "felsefe"
+    "category": "felsefe",
+    "srcUrl": "https://www.senkronmuzikkursu.com/wp-content/uploads/2021/02/barok.jpg"
   },
   {
     "id": "89",
     "title": "Enerji ve Fizik",
     "description": "Enerji ve Fizik hakkında detaylı bilgi ve analiz.",
-    "category": "sanat"
+    "category": "sanat",
+    "srcUrl": "https://i.ytimg.com/vi/-1NmRt7r2xM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDogZShdMA8=&rs=AOn4CLCb32B0NEjlJ4ILopouUgbQhw738w"
   },
   {
     "id": "90",
     "title": "Bilgi Güvenliği",
     "description": "Bilgi Güvenliği hakkında detaylı bilgi ve analiz.",
-    "category": "bilim"
+    "category": "bilim",
+    "srcUrl": "https://www.iremtransport.com.tr/uploads/570--bilgi-guvenligi.jpeg"
   },
   {
     "id": "91",
     "title": "Anlam ve Gerçeklik",
     "description": "Anlam ve Gerçeklik hakkında detaylı bilgi ve analiz.",
-    "category": "teknoloji"
+    "category": "teknoloji",
+    "srcUrl": "https://image.milimaj.com/i/milliyet/75/869x477/617dc69786b2440aec2721a2.jpg"
   },
   {
     "id": "92",
     "title": "Sanat Tarihi",
     "description": "Sanat Tarihi hakkında detaylı bilgi ve analiz.",
-    "category": "felsefe"
+    "category": "felsefe",
+    "srcUrl": "https://img-c.udemycdn.com/course/750x422/3616036_16e4.jpg"
   },
   {
     "id": "93",
     "title": "Bilimsel Araştırma Yöntemleri",
     "description": "Bilimsel Araştırma Yöntemleri hakkında detaylı bilgi ve analiz.",
-    "category": "sanat"
+    "category": "sanat",
+    "srcUrl": "https://akademiksunum.com/staticImages/89fa75ae8af8efd5de6de491ec33e50d4cbfcdf3/1.jpg"
   }
 ]
