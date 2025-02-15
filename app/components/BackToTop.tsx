@@ -30,7 +30,7 @@ const BackToTop = () => {
     return (
         <button
             onClick={handleClick}
-            className={`${showArrowTop ? "fixed text-black bottom-10 right-2 bg-red-200 hover:bg-red-300 z-50 rounded-3xl h-5 w-10 mb-10 me-1"
+            className={`${showArrowTop ? "fixed bottom-10 bg-black right-2 z-50 rounded-3xl me-1"
                 : "hidden"}`}
         >
             <span>

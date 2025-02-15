@@ -1,11 +1,11 @@
 
-
 import { Metadata, ResolvingMetadata } from "next";
 import Image from "next/image";
 import inform from '../../../Data/dummy.json'
-import Link from "next/link";
+import Search from "@/app/components/Search";
+import RelevantCategory from "@/app/components/RelevantCategory";
 
-interface TypeData {
+export interface TypeData {
     id: string;
     title: string;
     description: string;
@@ -50,28 +50,39 @@ export default async function Page({
     const data = await getData();
     const item = data.find((item) => item.id === params.id)
 
-    return (
-        <div className='grid grid-cols-1 min-h-screen p-3'>
-            <h2 className="text-3xl ">Haber Detayı</h2>
 
-            <div className='rounded-xl shadow-lg mx-auto' >
-                <div className='p-5 flex flex-col '>
-                    <div className="rounded-xl overflow-hidden " >
-                        <Image src={`${item?.srcUrl}`} alt='lorem' width={300} height={300} className='w-full' />
-                    </div>
-                    <h3 className='text-2xl font-medium mt-3'>{item?.title}</h3>
-                    <p className='text-slate-500 text-lg mt-3'>{item?.description}</p>
-                    {item?.category}
-                    <div className='mx-auto'>
-                        <Link href={`/`}>
-                            <button
-                                className='bg-slate-300 rounded-md'
-                            >Geri Dön
-                            </button>
-                        </Link>
-                    </div>
-                </div>
+    const filterCategory = data.filter((fil => fil.category === item?.category && fil.id !== item.id))
+    const relevantCategory = filterCategory.splice(0, 5);
+
+
+    return (
+        <div className="flex flex-col ms-auto p-5">
+            <Search data={data} />
+            <div className='grid grid-cols-1 p-3 sm:ml-[170px]'>
+                <h2 className="text-3xl font-bold">{item?.title}</h2>
+                <Image src={`${item?.srcUrl}`} alt='Lorem' width={400} height={300}
+                    className="mt-5 w-1/2 mx-auto sm:me-auto" />
+                <p className="mt-5 ">
+                    <span className="font-bold">{item?.description} </span>
+                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis fugiat deleniti modi
+                    autem ut, cumque praesentium doloribus ex doloremque, eveniet rem earum sunt reiciendis dicta
+                    fuga facilis quos, minima voluptas!
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Id impedit, nesciunt facilis iusto
+                    vitae minus dolore magni deserunt tenetur est vero natus aperiam voluptas. Dolores sapiente
+                    dicta natus sit sint.
+                </p>
+                <h3 className="text-2xl font-bold mt-5">Lorem</h3>
+                <p className="mt-5 ">
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusantium sint enim ut quas deserunt
+                    iure consequatur vero officiis molestias nihil ipsam necessitatibus dolorum perspiciatis reprehenderit
+                    placeat, non, fugiat facere sapiente!Ad pariatur rem soluta voluptatibus id fugiat quas quis, libero
+                    quaerat dolorem? Nam provident ratione consequatur. Perspiciatis molestias, cupiditate at officiis
+                    architecto quasi! Molestiae enim amet ipsam exercitationem, ratione non!
+                </p>
+                <h3 className="font-bold text-2xl mt-5">İlgili Kategoriyle Haberler</h3>
+                <RelevantCategory relevantCategory={relevantCategory} />
             </div>
         </div>
+
     )
 }

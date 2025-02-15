@@ -18,7 +18,7 @@ async function getData(): Promise<TypeData[]> {
 export default async function Home() {
   const data = await getData();
   return (
-    <div className="pr-5">
+    <div className="">
       <Suspense fallback={<Skeleton />}>
         <Search data={data} />
       </Suspense>
