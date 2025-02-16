@@ -29,3 +29,6 @@ Detay sayfası Next.js Dynamic Medatada sayesinde haber detay sayfasında sayfa 
 Detay sayfasında sidebar arama ve checkbox kullanışsız olduğundan usePathname() kullanılarak görünmez hale getirilmiştir.
 
 Tasarım Tailwind Css ile yapılmıştır.
+
+## 🚀 Demo  
+[![Vercel Live](https://img.shields.io/badge/Live%20Demo-%23007ACC?style=for-the-badge&logo=vercel&logoColor=white)](https://senin-projen.vercel.app/)
