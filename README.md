@@ -31,4 +31,5 @@ Detay sayfasında sidebar arama ve checkbox kullanışsız olduğundan usePathna
 Tasarım Tailwind Css ile yapılmıştır.
 
 ## 🚀 Demo  
-[![Vercel Live](https://img.shields.io/badge/Live%20Demo-%23007ACC?style=for-the-badge&logo=vercel&logoColor=white)](https://senin-projen.vercel.app/)
+[![Vercel Live](https://img.shields.io/badge/Live%20Demo-%23007ACC?style=for-the-badge&logo=vercel&logoColor=white)](https://filter-content-project.vercel.app/)
+
