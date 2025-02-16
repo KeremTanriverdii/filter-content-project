@@ -33,10 +33,12 @@ const RelevantCategory = ({ relevantCategory }: RelevantCategoryProps) => {
                                 <p className='mt-3 p-2 font-medium text-md '>{description}</p>
                             </div>
                             <div className='p-2 bg-gray-100 w-full  hover:bg-transparent '>
-                                <Link href={`details/${id}`}
+                                {isDetailsPath &&
+                                <Link href={`/details/${id}`}
                                     className='py-2 rounded-lg font-bold flex justify-center '
                                 >Detaya Git
                                 </Link>
+                                }
                             </div>
                         </div>
                     </div>
